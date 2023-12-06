@@ -14,7 +14,8 @@ N/A
 Navigate to the website and click on the menu bar to direct you to the relevant sections. Click on your favorite project and it opens the project in a new tab. You can read about me, and my skills, and contact me through the info provided. You can also go ahead and access me on social media.
 
 
-![screencapture-bootstrap-portfolio](https://github.com/AshivaA/bootstrap-portfolio/assets/136107176/17c11b04-b757-4902-a60e-c7f56a046293)
+![my-bootstrap-portfolio-new](https://github.com/AshivaA/bootstrap-portfolio/assets/136107176/b0c58a40-90b6-4bec-bc7f-90ebbb0981a0)
+
 
 
 
