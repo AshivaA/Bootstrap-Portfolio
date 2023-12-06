@@ -1,3 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
 /*hero section*/
 
 .jumbotron{
@@ -6,6 +18,8 @@
    position: relative;
     top: 40px;
     align-items: center;
+
+    
 }
 
 
@@ -20,11 +34,15 @@
 
 .boxes{
     margin-top: 100px;
+
+    
+    
 }
 
 .text{
    
     margin-left: 40px;
+    
     
 }
 .vertical-line{
@@ -38,6 +56,7 @@
     .container{
         display: flex;
         flex-direction: column;
+       
     }
 
 
@@ -46,18 +65,40 @@
 #work{
     margin-left: -20px;
     
+    
+    
 }
+
+
 
     /*cards*/
     .card{
-        margin: 0;
-        padding: 0;
-        left: 200px;
-        text-align: center;
-
+        margin: 15px;
+        
     }
 
+    .container-cards{
+        margin-left: 210px;
+        margin-top: -50px;
+         
+    }
 
+    .card-title{
+        text-align: center;
+       padding: 7px;
+    }
+
+    .card-text{
+        text-align: center;
+        padding: 0 7px;
+        margin: 10px;
+        
+        
+    }
+
+    .link{
+        align-self: center;
+    }
 
 
 #skills{
